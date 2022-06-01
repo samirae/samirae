@@ -4,6 +4,7 @@
 <li>:seedling: I'm in constant learning (currently Kotlin, Flutter)</li>
 <li>:octocat: I’m looking to collaborate projects that make use of <strong>iOS, Swift</strong></li>
 <li>🇮🇷 From Iran</li>
+<li>🇩🇪🇷 Lives in Germany</li>
 <li>:rocket: I'm looking for new projects and work opportunities</li>
 </ul>
 <div align="center">
